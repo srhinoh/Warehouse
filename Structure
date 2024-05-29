@@ -1,0 +1,35 @@
+warehouse-receipting-system/
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── utils/
+│   │   ├── App.js
+│   │   └── index.js
+│   ├── package.json
+│   └── ...
+│
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── config/
+│   ├── middleware/
+│   ├── index.js
+│   ├── package.json
+│   └── ...
+│
+├── database/
+│   ├── migrations/
+│   ├── seeds/
+│   └── ...
+│
+├── docs/
+│   └── ...
+│
+├── .gitignore
+├── README.md
+└── ...
